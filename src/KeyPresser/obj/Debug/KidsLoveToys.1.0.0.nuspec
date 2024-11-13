@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>KidsLoveToys</id>
+    <version>1.0.0</version>
+    <authors>KidsLoveToys</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0">
+        <dependency id="Emgu.CV" version="4.9.0.5494" exclude="Build,Analyzers" />
+        <dependency id="Emgu.CV.runtime.windows" version="4.9.0.5494" exclude="Build,Analyzers" />
+        <dependency id="InputSimulator" version="1.0.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="8.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Work\KeyPresser\KeyPresser\KeyPresser\bin\Debug\net7.0-windows7.0\KidsLoveToys.runtimeconfig.json" target="lib\net7.0-windows7.0\KidsLoveToys.runtimeconfig.json" />
+    <file src="D:\Work\KeyPresser\KeyPresser\KeyPresser\bin\Debug\net7.0-windows7.0\KidsLoveToys.dll" target="lib\net7.0-windows7.0\KidsLoveToys.dll" />
+  </files>
+</package>

@@ -1,0 +1,14 @@
+{
+  "Id": 0,
+  "PauseMin": 1500,
+  "PauseMax": 3000,
+  "ActionMin": 200,
+  "ActionMax": 500,
+  "ColourPickerX": 2835,
+  "ColourPickerY": 1104,
+  "ActionType": 0,
+  "MontiorColour": true,
+  "SeaFishing": true,
+  "IsFloat": false,
+  "RiseRod": true
+}

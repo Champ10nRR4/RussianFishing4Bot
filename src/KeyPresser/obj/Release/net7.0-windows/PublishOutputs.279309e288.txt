@@ -1,0 +1,7 @@
+D:\Published\RR4Helper\KeyPresser.exe
+D:\Published\RR4Helper\KeyPresser.dll
+D:\Published\RR4Helper\KeyPresser.deps.json
+D:\Published\RR4Helper\KeyPresser.runtimeconfig.json
+D:\Published\RR4Helper\KeyPresser.pdb
+D:\Published\RR4Helper\WindowsInput.dll
+D:\Published\RR4Helper\Newtonsoft.Json.dll
